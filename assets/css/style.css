@@ -1,0 +1,106 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+    color: #00d1b2;
+    width: 1475px;
+    height: 457px;
+    background: url(https://cdn.discordapp.com/attachments/252296452708106240/655293406674944021/level-header.webp) center;
+    background-size: cover;
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+i {
+    margin-right: 20px;
+}
+
+.heading {
+    padding-top: 95px;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+a {
+    color: white;
+}
+
+main {
+    color: #00d1b2;
+    background-color: black;
+    width: 1475px;
+    height: 890px;
+}
+
+.same {
+    padding: 55px 70px;
+}
+
+.p-1 {
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 2.5rem;
+    display: inline-block;
+}
+
+.project span i {
+    font-size: 1.5rem;
+}
+
+.header {
+    font-size: 1.5rem;
+}
+
+.column-1 {
+    padding: 12px;
+}
+
+.column-1 picture img {
+    border-radius: 5px;
+}
+
+.column-1 h4 span a {
+    font-size: 2rem;
+    color: orange;
+    margin-left: 40px;
+}
+
+.column-1 p {
+    color: #00AFD5;
+}
+
+.column-1 p span {
+    margin: 70px;
+}
+
+.discords p {
+    color: #00AFD5;
+}
+
+.contact {
+    padding-bottom: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.social-link {
+    margin-bottom: .65em;
+    font-size: 34px;
+}
+
+.contact-letter p {
+    color: #00d1b2;
+}
