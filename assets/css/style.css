@@ -26,6 +26,10 @@ h1 {
     font-size: 3rem;
 }
 
+.heading .name h1 {
+    margin-bottom: 20px;
+}
+
 a {
     color: white;
 }
@@ -103,4 +107,8 @@ h2 {
 
 .contact-letter p {
     color: #00d1b2;
+}
+
+.contact .social-link a {
+    color: #00AFD5;
 }
